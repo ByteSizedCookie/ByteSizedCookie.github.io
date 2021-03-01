@@ -33,6 +33,7 @@ show_excerpts: true
 
 # Build settings
 theme: bytesizedtheme
+remote_theme: ByteSizedCookie/bytesizedtheme
 plugins:
   - jekyll-feed
 
