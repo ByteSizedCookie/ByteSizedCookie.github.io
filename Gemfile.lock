@@ -1,6 +1,6 @@
 GIT
-  remote: https://github.com/bytesizedcookie/bytesizedtheme.git
-  revision: a09450728b8ee6cb75e6b9bac607549afbcfe31e
+  remote: https://github.com/ByteSizedCookie/bytesizedtheme.git
+  revision: aa4d8c1bc481b39d119f014b9ef18a363943741c
   branch: master
   specs:
     bytesizedtheme (0.1.0)

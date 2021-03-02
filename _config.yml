@@ -24,7 +24,9 @@ email: bytesized.cookie@outlook.com
 description: >-
   Bits and bytes of random technology topics: how-tos, projects,
   code, software. Free and open source software (FOSS) focus.
-  Does not serve free cookies.
+  Does not serve free cookies. This website is no way affiliated
+  with other websites/blogs/accounts with similar, but NOT exact,
+  names.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
