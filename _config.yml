@@ -21,7 +21,7 @@
 title: ByteSizedCookie
 author: ByteSizedCookie
 email: bytesized.cookie@outlook.com
-title: ByteSizedCookie - Tech Blog
+
 description: >-
   Bits and bytes of random technology topics: how-tos, projects,
   code, software. Free and open source software (FOSS) focus.
@@ -29,10 +29,10 @@ description: >-
 disclaimer: >-
   This website is in no way affiliated with any other websites,
   blogs, accounts, or organizations beyond those listed in the
-  "About the blog:" section.
+  "About the blog" section.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:@ByteSizedCookie
+github_username: ByteSizedCookie
 show_excerpts: true
 
 # Build settings
