@@ -29,10 +29,10 @@ description: >-
 disclaimer: >-
   This website is in no way affiliated with any other websites,
   blogs, accounts, or organizations beyond those listed in the
-  "About the blog:" section.
-baseurl: "" # the subpath of your site, e.g. /blog
+  "About the blog" section.
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:@ByteSizedCookie
+github_username: ByteSizedCookie
 show_excerpts: true
 
 # Build settings
